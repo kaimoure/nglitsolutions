@@ -1,0 +1,216 @@
+[19-Dec-2019 01:20:04 UTC] PHP Notice:  Undefined index: email_address in /home/odfmoyasiltq/public_html/nglitsolutions.com/send_mail.php on line 20
+[19-Dec-2019 01:20:04 UTC] PHP Notice:  Undefined index: message in /home/odfmoyasiltq/public_html/nglitsolutions.com/send_mail.php on line 21
+[19-Dec-2019 01:20:04 UTC] PHP Notice:  Undefined index: first_name in /home/odfmoyasiltq/public_html/nglitsolutions.com/send_mail.php on line 22
+[19-Dec-2019 01:20:04 UTC] PHP Notice:  Undefined index: phone_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/send_mail.php on line 23
+[19-Dec-2019 09:00:07 UTC] PHP Notice:  Undefined index: email_address in /home/odfmoyasiltq/public_html/nglitsolutions.com/send_mail.php on line 20
+[19-Dec-2019 09:00:07 UTC] PHP Notice:  Undefined index: message in /home/odfmoyasiltq/public_html/nglitsolutions.com/send_mail.php on line 21
+[19-Dec-2019 09:00:07 UTC] PHP Notice:  Undefined index: first_name in /home/odfmoyasiltq/public_html/nglitsolutions.com/send_mail.php on line 22
+[19-Dec-2019 09:00:07 UTC] PHP Notice:  Undefined index: phone_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/send_mail.php on line 23
+[17-Jan-2020 10:10:04 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[17-Jan-2020 10:10:04 UTC] PHP Notice:  Undefined index: custom in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 71
+[17-Jan-2020 10:10:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 97
+[17-Jan-2020 10:17:04 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[17-Jan-2020 10:17:04 UTC] PHP Notice:  Undefined index: custom in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 71
+[17-Jan-2020 10:17:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 97
+[17-Jan-2020 10:21:05 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[17-Jan-2020 10:21:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 97
+[17-Jan-2020 10:22:04 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[17-Jan-2020 10:22:04 UTC] PHP Notice:  Undefined index: custom in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 71
+[17-Jan-2020 10:23:05 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[17-Jan-2020 10:23:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 97
+[17-Jan-2020 10:28:04 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 03:35:35 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 03:35:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 03:35:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 03:36:47 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 03:36:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 03:36:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 03:40:53 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 03:40:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 03:40:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 05:55:40 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:55:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:55:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 05:57:16 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:57:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:57:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 05:57:17 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:57:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:57:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 05:58:00 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:58:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:58:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 05:58:00 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 27
+[20-Jan-2020 05:58:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 27
+[20-Jan-2020 05:58:19 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:58:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:58:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 05:58:19 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 27
+[20-Jan-2020 05:58:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 27
+[20-Jan-2020 05:59:49 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:59:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:59:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 05:59:49 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 05:59:49 UTC] PHP Notice:  Undefined variable: sq1l in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 05:59:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 05:59:49 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 05:59:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 05:59:49 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:59:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:59:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 05:59:49 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 05:59:49 UTC] PHP Notice:  Undefined variable: sq1l in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 05:59:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 05:59:49 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 05:59:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 05:59:49 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:59:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 05:59:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 05:59:49 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 05:59:49 UTC] PHP Notice:  Undefined variable: sq1l in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 05:59:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 05:59:49 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 05:59:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 06:00:15 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 06:00:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 06:00:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 06:00:15 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:00:15 UTC] PHP Notice:  Undefined variable: sq1l in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:00:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:00:15 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 06:00:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 06:01:48 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 06:01:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 06:01:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 06:01:48 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:01:48 UTC] PHP Notice:  Undefined variable: sq1l in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:01:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:01:48 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 06:01:48 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 06:04:44 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 06:04:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 06:04:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 06:04:44 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:04:44 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:04:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:04:44 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 06:04:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 06:04:54 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 06:04:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 06:04:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 06:04:54 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:04:54 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:04:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:04:54 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 06:04:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 06:04:58 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 06:04:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 23
+[20-Jan-2020 06:04:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 24
+[20-Jan-2020 06:04:58 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:04:58 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:04:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 28
+[20-Jan-2020 06:04:58 UTC] PHP Notice:  Undefined variable: conn in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 06:04:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 31
+[20-Jan-2020 06:06:05 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:05 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:07 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:26 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:27 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:29 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:30 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:30 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:30 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:06:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 35
+[20-Jan-2020 06:07:56 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 38
+[20-Jan-2020 06:07:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 38
+[20-Jan-2020 06:12:24 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 38
+[20-Jan-2020 06:12:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 38
+[20-Jan-2020 06:12:36 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 38
+[20-Jan-2020 06:12:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 38
+[20-Jan-2020 06:12:38 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 38
+[20-Jan-2020 06:12:38 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 38
+[20-Jan-2020 06:12:39 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 38
+[20-Jan-2020 06:12:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 38
+[20-Jan-2020 06:12:39 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 38
+[20-Jan-2020 06:12:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 38
+[20-Jan-2020 06:19:46 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:19:46 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:19:48 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:19:48 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:19:50 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:19:50 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:19:50 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:19:50 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:19:50 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:19:50 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:19:51 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:19:51 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:37 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:38 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:38 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:39 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:39 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:39 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:39 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:40 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:22:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:24:13 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:24:13 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:25:09 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:25:09 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:25:13 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:25:13 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:30:08 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:30:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:30:09 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:30:09 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:30:10 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:30:10 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:30:10 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:30:10 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:30:10 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:30:10 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:30:11 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:30:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:37:24 UTC] PHP Notice:  Undefined variable: sq11 in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:37:25 UTC] PHP Warning:  mysqli_query(): Empty query in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 37
+[20-Jan-2020 06:45:05 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 06:45:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 97
+[20-Jan-2020 06:48:04 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 06:48:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 97
+[20-Jan-2020 06:53:05 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 07:17:15 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 07:17:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 97
+[20-Jan-2020 07:18:04 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 07:18:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 97
+[20-Jan-2020 07:23:04 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 07:30:06 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 07:30:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 103
+[20-Jan-2020 07:31:04 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 07:31:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 103
+[20-Jan-2020 07:32:05 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 07:32:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 103
+[20-Jan-2020 07:39:05 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 08:15:04 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 08:15:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 112
+[20-Jan-2020 08:17:05 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 08:22:04 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 08:28:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 53
+[20-Jan-2020 08:28:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 53
+[20-Jan-2020 08:29:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/odfmoyasiltq/public_html/nglitsolutions.com/savedb.php on line 34
+[20-Jan-2020 08:37:06 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 08:39:04 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 08:44:06 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 10:07:05 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
+[20-Jan-2020 11:08:04 UTC] PHP Notice:  Undefined index: item_number in /home/odfmoyasiltq/public_html/nglitsolutions.com/ipnhandler.php on line 64
